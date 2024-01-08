@@ -1,0 +1,20 @@
+<background>
+  <starttime>
+    <year>2012</year>
+    <month>06</month>
+    <day>4</day>
+    <hour>7</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+<static>
+<duration>10000000000.0</duration>
+<file>
+  <size width="4080" height="2296">/usr/share/backgrounds/mt-kamutiki.jpg</size>
+  <size width="4080" height="2296">/usr/share/backgrounds/chikuma-river.jpg</size>
+  <size width="1920" height="1080">/usr/share/backgrounds/nozawa-onsen.jpg</size>
+  <size width="4080" height="2296">/usr/share/backgrounds/romancecar-hise.jpg</size>
+  <size width="4080" height="2296">/usr/share/backgrounds/joetsu.jpg</size>
+</file>
+</static>
+</background>
